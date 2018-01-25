@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\hdaha\onedrive\documents\visual studio 2015\projects\homework6\homework6\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\hdaha\onedrive\documents\visual studio 2015\projects\homework6\homework6\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\hdaha\onedrive\documents\visual studio 2015\projects\homework6\homework6\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\hdaha\onedrive\documents\visual studio 2015\projects\homework6\homework6\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\hdaha\onedrive\documents\visual studio 2015\projects\homework6\homework6\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+  homework6.vcxproj -> C:\Users\hdaha\OneDrive\Documents\Visual Studio 2015\Projects\homework6\Debug\homework6.exe
+  homework6.vcxproj -> C:\Users\hdaha\OneDrive\Documents\Visual Studio 2015\Projects\homework6\Debug\homework6.pdb (Partial PDB)
